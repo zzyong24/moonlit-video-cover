@@ -1,0 +1,4 @@
+interface:
+  display_name: "月明·视频封面"
+  short_description: "按视频内容形态生成月明IP三画幅高识别封面并交接发布"
+  default_prompt: "使用 $moonlit-video-cover 为当前视频制作三画幅封面。"
